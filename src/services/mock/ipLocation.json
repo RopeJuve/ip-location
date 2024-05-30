@@ -1,0 +1,21 @@
+{
+    "ip": "77.186.32.84",
+    "location": {
+      "country": "DE",
+      "region": "Hessen",
+      "city": "Altstadt",
+      "lat": 50.11029,
+      "lng": 8.68255,
+      "postalCode": "",
+      "timezone": "+02:00",
+      "geonameId": 7118103
+    },
+    "as": {
+      "asn": 6805,
+      "name": "TDDE-ASN1",
+      "route": "77.176.0.0/12",
+      "domain": "http://www.telefonica.de",
+      "type": "NSP"
+    },
+    "isp": "Telefónica Germany GmbH & Co. OHG"
+  }
