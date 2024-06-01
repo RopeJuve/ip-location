@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="430" style="width:100%;height:100%;transform:translate3d(0,0,0);content-visibility:visible" viewBox="0 0 430 430">
+    <defs>
+        <clipPath id="m">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="x">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="v">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="t">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="r">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="p">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <clipPath id="n">
+            <path d="M0 0h430v430H0z"/>
+        </clipPath>
+        <filter id="a" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <filter id="c" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <filter id="e" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <filter id="g" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <filter id="i" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <filter id="k" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feComponentTransfer in="SourceGraphic">
+                <feFuncA tableValues="1.0 0.0" type="table"/>
+            </feComponentTransfer>
+        </filter>
+        <mask id="y" mask-type="alpha">
+            <g filter="url(#a)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="#b"/>
+            </g>
+        </mask>
+        <mask id="w" mask-type="alpha">
+            <g filter="url(#c)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="#d"/>
+            </g>
+        </mask>
+        <mask id="u" mask-type="alpha">
+            <g filter="url(#e)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns3="http://www.w3.org/1999/xlink" ns3:href="#f"/>
+            </g>
+        </mask>
+        <mask id="s" mask-type="alpha">
+            <g filter="url(#g)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns4="http://www.w3.org/1999/xlink" ns4:href="#h"/>
+            </g>
+        </mask>
+        <mask id="q" mask-type="alpha">
+            <g filter="url(#i)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns5="http://www.w3.org/1999/xlink" ns5:href="#j"/>
+            </g>
+        </mask>
+        <mask id="o" mask-type="alpha">
+            <g filter="url(#k)">
+                <path fill="#fff" d="M0 0h430v430H0z" opacity="0"/>
+                <use xmlns:ns6="http://www.w3.org/1999/xlink" ns6:href="#l"/>
+            </g>
+        </mask>
+        <g id="b" style="display:none">
+            <path class="primary"/>
+            <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" class="primary"/>
+        </g>
+        <g id="d" style="display:none">
+            <path class="primary"/>
+            <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" class="primary"/>
+        </g>
+        <g id="f" style="display:none">
+            <path class="primary"/>
+            <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" class="primary"/>
+        </g>
+        <g id="h" style="display:block">
+            <path fill="#CCC" d="M132.42 203.218c10.48 75.408 82.59 169.986 82.59 169.986s107.584-75.186 136.984-133.928c6.3-12.59 10.689-26.497 12.234-41.507 5.92-57.505-32.182-111.502-88.351-125.177-66.252-16.131-131.272 27.1-142.918 93.144-2.246 12.74-2.225 25.339-.538 37.482z" class="primary"/>
+            <path fill-opacity="0" stroke="#CCC" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M132.42 203.218c10.48 75.408 82.59 169.986 82.59 169.986s107.584-75.186 136.984-133.928c6.3-12.59 10.689-26.497 12.234-41.507 5.92-57.505-32.182-111.502-88.351-125.177-66.252-16.131-131.272 27.1-142.918 93.144-2.246 12.74-2.225 25.339-.538 37.482z" class="primary"/>
+        </g>
+        <g id="j" style="display:none">
+            <path class="primary"/>
+            <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" class="primary"/>
+        </g>
+        <g id="l" style="display:none">
+            <path class="primary"/>
+            <path fill-opacity="0" stroke-linecap="round" stroke-linejoin="round" class="primary"/>
+        </g>
+    </defs>
+    <g clip-path="url(#m)">
+        <g clip-path="url(#n)" style="display:none">
+            <g style="display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+            <g mask="url(#o)" style="mix-blend-mode:multiply;display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+        </g>
+        <g clip-path="url(#p)" style="display:none">
+            <g style="display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+            <g mask="url(#q)" style="mix-blend-mode:multiply;display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+        </g>
+        <g clip-path="url(#r)" style="display:block">
+            <path fill="none" stroke="#CCC" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M0 0" class="primary" style="display:block" transform="translate(215 215)"/>
+            <g style="display:block">
+                <path fill="#CCC" d="M269.963 183.14c0 30.355-24.608 54.96-54.964 54.96-30.355 0-54.964-24.605-54.964-54.96 0-30.356 24.609-54.964 54.964-54.964 30.356 0 54.964 24.608 54.964 54.964zm-165.805 36.998C127.573 292.581 215.01 373.2 215.01 373.2s92.893-92.725 111.646-155.68c4.018-13.492 5.926-27.951 4.841-43.001-4.155-57.659-51.055-104.22-108.745-107.933C154.705 62.204 98.18 116.069 98.18 183.133c0 12.936 2.209 25.34 5.978 37.005z" class="primary"/>
+                <path fill="none" stroke="#CCC" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M269.963 183.14c0 30.355-24.608 54.96-54.964 54.96-30.355 0-54.964-24.605-54.964-54.96 0-30.356 24.609-54.964 54.964-54.964 30.356 0 54.964 24.608 54.964 54.964zm-165.805 36.998C127.573 292.581 215.01 373.2 215.01 373.2s92.893-92.725 111.646-155.68c4.018-13.492 5.926-27.951 4.841-43.001-4.155-57.659-51.055-104.22-108.745-107.933C154.705 62.204 98.18 116.069 98.18 183.133c0 12.936 2.209 25.34 5.978 37.005z" class="primary"/>
+            </g>
+            <g opacity=".5" style="mix-blend-mode:multiply;display:block">
+                <g mask="url(#s)" opacity="1">
+                    <path fill="#CCC" d="M269.963 183.14c0 30.355-24.608 54.96-54.964 54.96-30.355 0-54.964-24.605-54.964-54.96 0-30.356 24.609-54.964 54.964-54.964 30.356 0 54.964 24.608 54.964 54.964zm-165.805 36.998C127.573 292.581 215.01 373.2 215.01 373.2s92.893-92.725 111.646-155.68c4.018-13.492 5.926-27.951 4.841-43.001-4.155-57.659-51.055-104.22-108.745-107.933C154.705 62.204 98.18 116.069 98.18 183.133c0 12.936 2.209 25.34 5.978 37.005z" class="primary"/>
+                    <path fill="none" stroke="#CCC" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M269.963 183.14c0 30.355-24.608 54.96-54.964 54.96-30.355 0-54.964-24.605-54.964-54.96 0-30.356 24.609-54.964 54.964-54.964 30.356 0 54.964 24.608 54.964 54.964zm-165.805 36.998C127.573 292.581 215.01 373.2 215.01 373.2s92.893-92.725 111.646-155.68c4.018-13.492 5.926-27.951 4.841-43.001-4.155-57.659-51.055-104.22-108.745-107.933C154.705 62.204 98.18 116.069 98.18 183.133c0 12.936 2.209 25.34 5.978 37.005z" class="primary"/>
+                </g>
+            </g>
+        </g>
+        <g clip-path="url(#t)" style="display:none">
+            <g fill="none" style="display:none">
+                <path class="primary"/>
+                <path class="primary"/>
+            </g>
+            <g style="display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+            <g mask="url(#u)" style="mix-blend-mode:multiply;display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+        </g>
+        <g clip-path="url(#v)" style="display:none">
+            <g style="display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+            <g mask="url(#w)" style="mix-blend-mode:multiply;display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+        </g>
+        <g clip-path="url(#x)" style="display:none">
+            <path fill="none" class="primary" style="display:none"/>
+            <g style="display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+            <g mask="url(#y)" style="mix-blend-mode:multiply;display:none">
+                <path class="primary"/>
+                <path fill="none" class="primary"/>
+            </g>
+        </g>
+    </g>
+</svg>
