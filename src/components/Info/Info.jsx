@@ -11,6 +11,8 @@ const Info = () => {
     const { data, loading, getSearchData, country, getCountry, time} = useIPtracker();
     const [toggle, setToggle] = useState(false)
 
+    console.log(data , country, time)
+
     const infoClasses = classNames(
         'absolute top-0  w-[100vw] rounded-3xl z-50 h-[100vh] bg-[#1b1b1b] text-[#f5f5f5] lg:w-[30%]  lg:relative lg:left-0 lg:translate-x-[0] lg:translate-y-[0] lg:rounded-[0]  p-[1.5rem] flex flex-col gap-[3rem] md:w-[60vw] md:left-[50%] md:translate-x-[-50%]',
         {
