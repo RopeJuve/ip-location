@@ -71,6 +71,7 @@ export const IPtrackerProvider = ({ children }) => {
                     throw new Error('Request failed!');
                 }
                 setCountry(data);
+                console.log(data)
                 setFlag(data.flags.png);
                 setLoading('success');
             }

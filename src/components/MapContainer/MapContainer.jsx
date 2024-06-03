@@ -16,12 +16,16 @@ import PopupComponent from './PopupComponent';
 
 
 const Map = () => {
-    const { data, loading, getData, country } = useIPtracker();
+    const { data, loading, getData, country, getCountry } = useIPtracker();
 
     useEffect(() => {
         getData()
+        
     }, [])
 
+    useEffect(() => {
+        getCountry()
+    }, [data])
 
     const markerIcon = new Icon({
         iconUrl: icon,

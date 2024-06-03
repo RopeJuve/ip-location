@@ -8,10 +8,8 @@ import classNames from "classnames";
 const Info = () => {
     const [search, setSearch] = useState('')
     const [errorMessage, setErrorMessage] = useState('')
-    const { data, loading, getSearchData, country, getCountry, time} = useIPtracker();
+    const { data, loading, getSearchData, country, getCountry, time, countryCode } = useIPtracker();
     const [toggle, setToggle] = useState(false)
-
-    console.log(data , country, time)
 
     const infoClasses = classNames(
         'absolute top-0  w-[100vw] rounded-3xl z-50 h-[100vh] bg-[#1b1b1b] text-[#f5f5f5] lg:w-[30%]  lg:relative lg:left-0 lg:translate-x-[0] lg:translate-y-[0] lg:rounded-[0]  p-[1.5rem] flex flex-col gap-[3rem] md:w-[60vw] md:left-[50%] md:translate-x-[-50%]',
@@ -21,9 +19,6 @@ const Info = () => {
         }
     )
 
-    useEffect(() => {
-        getCountry();
-    }, [data])
     const inputClasses = classNames(
         'w-full py-[.8rem] px-[1.2rem] border-[.5px] outline-none rounded-md bg-[#292929]',
         {
